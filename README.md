@@ -10,6 +10,6 @@
     <title> git-journey </title> </title>
 </head>
 <body>
-    tishad is here,  <br/>  welcome to my palace <br/> i started new journey today !
+    tishad is here!
 </body>
 </html>
