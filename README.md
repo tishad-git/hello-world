@@ -7,7 +7,7 @@
    
 
     
-    <title> git-journey </title> </title>
+    <title> git-journey </title>
 </head>
 <body>
     tishad is here!
